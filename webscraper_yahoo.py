@@ -86,4 +86,4 @@ if __name__ == '__main__':
     # df = csv_file_reader(fname)
     # statistics = web_scrape_statistics(company_name="NIO")
     # income = company_history_stocks_price(company_name="NIO")
-    company_balance(company_name="NIO")
+    # company_balance(company_name="NIO")
